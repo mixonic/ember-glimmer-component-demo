@@ -1,0 +1,6 @@
+{
+  "name": "test-mu",
+  "dependencies": {
+    "ember": "components/ember#canary"
+  }
+}
